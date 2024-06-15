@@ -20,7 +20,8 @@
 
 ## Description
 
-An e-commerce platform for online shopping, offering a wide range of products from various categories with secure payment options and user-friendly interfaces.
+
+A simple Mailbox client application for sending and receiving emails.
 
 ## Demo
 
